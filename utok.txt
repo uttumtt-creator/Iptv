@@ -1,5 +1,5 @@
 YOUTUBE油管新聞|,#genre#
-TVBS新聞,https://youtube.com/watch?v=m_dhMSvUCIc
+TVBS新聞,https://www.youtube.com/live/m_dhMSvUCIc?si=jNRSoV0SfTcevaPl
 東森新聞,https://www.youtube.com/live/V1p33hqPrUk?si=byEUmKUYKqQEFU0N
 
 中天新聞,https://www.youtube.com/live/vr3XyVCR4T0?si=9quWZdOTvptvP-hO
