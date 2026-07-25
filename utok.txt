@@ -1,3 +1,215 @@
+4GTv新聞,#genre#
+
+TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=291#https://ha.msbot.dpdns.org/4gtv_api.php?id=473
+鏡電視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=268
+東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=234#https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+中視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=33#https://ha.msbot.dpdns.org/4gtv_api.php?id=258
+中天新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=260#https://ha.msbot.dpdns.org/4gtv_api.php?id=30
+中視,https://ha.msbot.dpdns.org/4gtv_api.php?id=4
+華視,https://ha.msbot.dpdns.org/4gtv_api.php?id=6
+華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=34#https://ha.msbot.dpdns.org/4gtv_api.php?id=256
+民視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=257#https://ha.msbot.dpdns.org/4gtv_api.php?id=31#https://ha.msbot.dpdns.org/4gtv_api.php?id=467
+三立新聞iNEWS,https://ha.msbot.dpdns.org/4gtv_api.php?id=229
+寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36#https://ha.msbot.dpdns.org/4gtv_api.php?id=262
+寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
+
+民視第一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=254#https://ha.msbot.dpdns.org/4gtv_api.php?id=1#https://ha.msbot.dpdns.org/4gtv_api.php?id=470
+民視台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=2#https://ha.msbot.dpdns.org/4gtv_api.php?id=469#https://ha.msbot.dpdns.org/4gtv_api.php?id=255
+民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=246#https://ha.msbot.dpdns.org/4gtv_api.php?id=3#https://ha.msbot.dpdns.org/4gtv_api.php?id=468
+大愛電視,https://ha.msbot.dpdns.org/4gtv_api.php?id=209
+TVBS歡樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=184
+公視戲劇,https://ha.msbot.dpdns.org/4gtv_api.php?id=7
+民視影劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=24
+HITS頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=186
+八大精彩台,https://ha.msbot.dpdns.org/4gtv_api.php?id=172
+靖天戲劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=116
+靖洋戲劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=118
+
+
+三立綜合台,https://ha.msbot.dpdns.org/4gtv_api.php?id=169
+客家電視台,https://ha.msbot.dpdns.org/4gtv_api.php?id=107
+八大綜藝台,https://ha.msbot.dpdns.org/4gtv_api.php?id=114#https://ha.msbot.dpdns.org/4gtv_api.php?id=276
+TVBS精采台,https://ha.msbot.dpdns.org/4gtv_api.php?id=227
+靖天綜合台,https://ha.msbot.dpdns.org/4gtv_api.php?id=21
+靖天日本台,https://ha.msbot.dpdns.org/4gtv_api.php?id=22
+ARIRANG阿里郎頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=189
+Global Trekker,https://ha.msbot.dpdns.org/4gtv_api.php?id=252
+原住民族電視台,https://ha.msbot.dpdns.org/4gtv_api.php?id=124
+東森購物二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=499
+LiveABC互動英語頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=188
+達文西頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=11
+ELTV生活英語台,https://ha.msbot.dpdns.org/4gtv_api.php?id=490
+Nick Jr. 兒童頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=219
+尼克兒童頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=185
+DreamWorks 夢工廠動畫,https://ha.msbot.dpdns.org/4gtv_api.php?id=282
+靖天卡通台,https://ha.msbot.dpdns.org/4gtv_api.php?id=15
+靖洋卡通Nice Bingo,https://ha.msbot.dpdns.org/4gtv_api.php?id=59
+MOMO親子台,https://ha.msbot.dpdns.org/4gtv_api.php?id=231
+東森購物一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=173
+
+
+東森財經新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=211#https://ha.msbot.dpdns.org/4gtv_api.php?id=293
+
+Bloomberg TV,https://ha.msbot.dpdns.org/4gtv_api.php?id=283
+
+SBN全球財經台,https://ha.msbot.dpdns.org/4gtv_api.php?id=224
+TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=183#https://ha.msbot.dpdns.org/4gtv_api.php?id=472
+東森購物四台,https://ha.msbot.dpdns.org/4gtv_api.php?id=500
+民視綜藝台,https://ha.msbot.dpdns.org/4gtv_api.php?id=16
+豬哥亮歌廳秀,https://ha.msbot.dpdns.org/4gtv_api.php?id=113
+靖天育樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=83
+KLT-靖天國際台,https://ha.msbot.dpdns.org/4gtv_api.php?id=84
+Nice TV 靖天歡樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=119
+靖天資訊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=88
+
+韓國娛樂台 KMTV,https://ha.msbot.dpdns.org/4gtv_api.php?id=446
+ROCK Entertainment,https://ha.msbot.dpdns.org/4gtv_api.php?id=275
+Lifetime 娛樂頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=217
+電影原聲台CMusic,https://ha.msbot.dpdns.org/4gtv_api.php?id=218
+TRACE Urban,https://ha.msbot.dpdns.org/4gtv_api.php?id=78
+Mezzo Live HD,https://ha.msbot.dpdns.org/4gtv_api.php?id=79
+CLASSICA 古典樂,https://ha.msbot.dpdns.org/4gtv_api.php?id=80
+東森購物三台,https://ha.msbot.dpdns.org/4gtv_api.php?id=287
+getwin sport運動台,https://ha.msbot.dpdns.org/4gtv_api.php?id=93
+INULTRA,https://ha.msbot.dpdns.org/4gtv_api.php?id=501
+博斯高球台,https://ha.msbot.dpdns.org/4gtv_api.php?id=264#https://ha.msbot.dpdns.org/4gtv_api.php?id=486
+博斯高球二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=494
+博斯運動一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=487#https://ha.msbot.dpdns.org/4gtv_api.php?id=265
+博斯無限台,https://ha.msbot.dpdns.org/4gtv_api.php?id=266#https://ha.msbot.dpdns.org/4gtv_api.php?id=489
+博斯網球台,https://ha.msbot.dpdns.org/4gtv_api.php?id=488#https://ha.msbot.dpdns.org/4gtv_api.php?id=267
+博斯運動二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=495
+博斯魅力台,https://ha.msbot.dpdns.org/4gtv_api.php?id=493
+博斯無限二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=496
+TRACE Sport Stars,https://ha.msbot.dpdns.org/4gtv_api.php?id=57
+智林體育台,https://ha.msbot.dpdns.org/4gtv_api.php?id=58
+時尚運動X,https://ha.msbot.dpdns.org/4gtv_api.php?id=69#https://ha.msbot.dpdns.org/4gtv_api.php?id=277
+車迷TV,https://ha.msbot.dpdns.org/4gtv_api.php?id=160
+GINX Esports TV,https://ha.msbot.dpdns.org/4gtv_api.php?id=179
+Pet Club TV,https://ha.msbot.dpdns.org/4gtv_api.php?id=464
+民視旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=61
+滾動力rollor,https://ha.msbot.dpdns.org/4gtv_api.php?id=249
+亞洲旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=261#https://ha.msbot.dpdns.org/4gtv_api.php?id=250
+fun探索娛樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=274
+幸福空間居家台,https://ha.msbot.dpdns.org/4gtv_api.php?id=123
+Love Nature,https://ha.msbot.dpdns.org/4gtv_api.php?id=139
+History 歷史頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=214
+愛爾達生活旅遊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=237
+LUXE TV Channel,https://ha.msbot.dpdns.org/4gtv_api.php?id=175
+TV5MONDE STYLE HD 生活時尚,https://ha.msbot.dpdns.org/4gtv_api.php?id=178
+ROCK Xstream搖滾極限頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=485
+
+CI 罪案偵查頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=215
+視納華仁紀實頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=38
+影迷數位紀實台,https://ha.msbot.dpdns.org/4gtv_api.php?id=445
+金光布袋戲,https://ha.msbot.dpdns.org/4gtv_api.php?id=236
+ROCK Action,https://ha.msbot.dpdns.org/4gtv_api.php?id=180
+GagaOOLala 精選LGBTQ+好劇,https://ha.msbot.dpdns.org/4gtv_api.php?id=478
+采昌影劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=25
+靖天映畫,https://ha.msbot.dpdns.org/4gtv_api.php?id=42
+靖天電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=82
+影迷數位電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=40
+amc電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=39
+CinemaWorld,https://ha.msbot.dpdns.org/4gtv_api.php?id=225
+My Cinema Europe HD 我的歐洲電影,https://ha.msbot.dpdns.org/4gtv_api.php?id=463
+好消息,https://ha.msbot.dpdns.org/4gtv_api.php?id=9
+好消息2台,https://ha.msbot.dpdns.org/4gtv_api.php?id=8
+大愛二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=230
+ABC Australia 澳洲公廣頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=498
+NHK WORLD-JAPAN,https://ha.msbot.dpdns.org/4gtv_api.php?id=461
+FRANCE24 英文台,https://ha.msbot.dpdns.org/4gtv_api.php?id=316
+半島國際新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=462
+CNBC Asia 財經台,https://ha.msbot.dpdns.org/4gtv_api.php?id=235
+DW德國之聲,https://ha.msbot.dpdns.org/4gtv_api.php?id=226
+香蕉直擊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=94
+國會頻道1,https://ha.msbot.dpdns.org/4gtv_api.php?id=170
+國會頻道2,https://ha.msbot.dpdns.org/4gtv_api.php?id=171
+TVBS綜藝台,https://ha.msbot.dpdns.org/4gtv_api.php?id=476
+TVBS台劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=477
+經典電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=201
+經典卡通台,https://ha.msbot.dpdns.org/4gtv_api.php?id=202
+精選動漫台,https://ha.msbot.dpdns.org/4gtv_api.php?id=204
+市井豪門-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=341
+華視好劇-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=330
+公視好劇-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=337
+客家好劇-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=346
+懷舊經典電影-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=333
+精選華語電影-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=335
+台灣靈異事件-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=326
+新兵日記-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=382
+加油喜事-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=384
+去有風的地方-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=386
+多情城市-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=389
+黃金歲月-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=392
+花千骨-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=397
+別打擾我種田-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=398
+國外電影精選-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=414
+日韓電影大賞-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=415
+大愛精選-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=416
+飛龍在天-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=417
+台灣傳奇-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=419
+世間路-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=421
+恐怖電影-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=422
+古裝武俠劇-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=423
+以愛為營-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=424
+精彩陸劇1台-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=426
+包青天-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=427
+007情報員-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=439
+葉青歌仔戲-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=451
+大兵日記-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=452
+親戚不計較(特輯)-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=453
+武媚娘傳奇-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=455
+精彩陸劇2台-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=456
+中國傳奇故事-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=458
+機智校園生活-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=479
+終極一班-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=491
+鬥魚-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=492
+傅子純的時光機,https://ha.msbot.dpdns.org/4gtv_api.php?id=497
+天才衝衝衝-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=343
+一字千金-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=344
+綜藝大集合-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=345
+食尚玩家-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=348
+11點熱吵店-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=349
+WTO姐妹會-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=350
+威廉沈歡樂送-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=435
+全家有智慧-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=375
+民視健康美麗生活-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=376
+姊妹亮起來-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=377
+娛樂百分百-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=378
+超級冰冰Show-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=379
+豬哥會社-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=380
+全能歌手-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=385
+民視生活通-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=387
+鬥陣大廟埕-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=388
+我的成長-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=390
+健康2.0-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=391
+輕鬆看法律-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=393
+野蠻遊戲：We Play -FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=395
+最愛韓星-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=396
+廚神明星秀-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=402
+浩克慢遊-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=403
+環遊世界800天 -FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=413
+綜藝新時代-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=429
+幸福保衛戰-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=430
+同學！搞什麼鬼-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=431
+爸媽囧很大-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=432
+醫學大聯盟-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=433
+GoGoTaiwan-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=434
+2025雙北世壯運-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=459
+一起追韓星-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=447
+韓流美食料理秀-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=449
+綜藝大贏家-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=460
+台灣No.1棒球精選-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=465
+HahaTai 哈哈台-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=466
+金光布袋戲-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=339
+哆啦A夢-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=331
+經典卡通-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=332
+免費精選動畫-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=437
+經典迪士尼-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=340
+Duck TV兒童卡通-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=334
+親子一起看-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=436
+怪獸之王-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=438
+東離劍遊紀-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=448
+MOMO親子精選-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=484
 台灣,#genre#
 中視,http://74.91.26.218:82/live/ctv.m3u8
 中視新聞,http://74.91.26.218:82/live/ctvnews.m3u8
