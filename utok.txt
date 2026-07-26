@@ -1,29 +1,47 @@
 4GTv新聞,#genre#
-
+TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=183#https://ha.msbot.dpdns.org/4gtv_api.php?id=472
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=291#https://ha.msbot.dpdns.org/4gtv_api.php?id=473
+中天新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=260
+
+
 鏡電視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=268
 東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=234#https://ha.msbot.dpdns.org/4gtv_api.php?id=292
-中視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=33#https://ha.msbot.dpdns.org/4gtv_api.php?id=258
-中天新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=260#https://ha.msbot.dpdns.org/4gtv_api.php?id=30
+華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=34#https://ha.msbot.dpdns.org/4gtv_api.php?id=256
+三立新聞iNEWS,https://ha.msbot.dpdns.org/4gtv_api.php?id=229
+
+
 中視,https://ha.msbot.dpdns.org/4gtv_api.php?id=4
 華視,https://ha.msbot.dpdns.org/4gtv_api.php?id=6
-華視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=34#https://ha.msbot.dpdns.org/4gtv_api.php?id=256
 民視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=257#https://ha.msbot.dpdns.org/4gtv_api.php?id=31#https://ha.msbot.dpdns.org/4gtv_api.php?id=467
-三立新聞iNEWS,https://ha.msbot.dpdns.org/4gtv_api.php?id=229
-寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36#https://ha.msbot.dpdns.org/4gtv_api.php?id=262
-寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
-
 民視第一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=254#https://ha.msbot.dpdns.org/4gtv_api.php?id=1#https://ha.msbot.dpdns.org/4gtv_api.php?id=470
 民視台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=2#https://ha.msbot.dpdns.org/4gtv_api.php?id=469#https://ha.msbot.dpdns.org/4gtv_api.php?id=255
 民視,https://ha.msbot.dpdns.org/4gtv_api.php?id=246#https://ha.msbot.dpdns.org/4gtv_api.php?id=3#https://ha.msbot.dpdns.org/4gtv_api.php?id=468
 大愛電視,https://ha.msbot.dpdns.org/4gtv_api.php?id=209
-TVBS歡樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=184
+
+東森財經新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=211#https://ha.msbot.dpdns.org/4gtv_api.php?id=293
+中視新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=33#https://ha.msbot.dpdns.org/4gtv_api.php?id=258
+Bloomberg TV,https://ha.msbot.dpdns.org/4gtv_api.php?id=283
+寰宇新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=36#https://ha.msbot.dpdns.org/4gtv_api.php?id=262
+寰宇新聞台灣台,https://ha.msbot.dpdns.org/4gtv_api.php?id=280
+SBN全球財經台,https://ha.msbot.dpdns.org/4gtv_api.php?id=224
+東森購物四台,https://ha.msbot.dpdns.org/4gtv_api.php?id=500
+民視綜藝台,https://ha.msbot.dpdns.org/4gtv_api.php?id=16
 公視戲劇,https://ha.msbot.dpdns.org/4gtv_api.php?id=7
 民視影劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=24
 HITS頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=186
 八大精彩台,https://ha.msbot.dpdns.org/4gtv_api.php?id=172
 靖天戲劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=116
 靖洋戲劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=118
+TVBS綜藝台,https://ha.msbot.dpdns.org/4gtv_api.php?id=476
+TVBS台劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=477
+經典電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=201
+經典卡通台,https://ha.msbot.dpdns.org/4gtv_api.php?id=202
+精選動漫台,https://ha.msbot.dpdns.org/4gtv_api.php?id=204
+
+
+
+東森購物一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=173
+東森購物二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=499
 
 
 三立綜合台,https://ha.msbot.dpdns.org/4gtv_api.php?id=169
@@ -35,7 +53,6 @@ TVBS精采台,https://ha.msbot.dpdns.org/4gtv_api.php?id=227
 ARIRANG阿里郎頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=189
 Global Trekker,https://ha.msbot.dpdns.org/4gtv_api.php?id=252
 原住民族電視台,https://ha.msbot.dpdns.org/4gtv_api.php?id=124
-東森購物二台,https://ha.msbot.dpdns.org/4gtv_api.php?id=499
 LiveABC互動英語頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=188
 達文西頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=11
 ELTV生活英語台,https://ha.msbot.dpdns.org/4gtv_api.php?id=490
@@ -45,23 +62,13 @@ DreamWorks 夢工廠動畫,https://ha.msbot.dpdns.org/4gtv_api.php?id=282
 靖天卡通台,https://ha.msbot.dpdns.org/4gtv_api.php?id=15
 靖洋卡通Nice Bingo,https://ha.msbot.dpdns.org/4gtv_api.php?id=59
 MOMO親子台,https://ha.msbot.dpdns.org/4gtv_api.php?id=231
-東森購物一台,https://ha.msbot.dpdns.org/4gtv_api.php?id=173
 
-
-東森財經新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=211#https://ha.msbot.dpdns.org/4gtv_api.php?id=293
-
-Bloomberg TV,https://ha.msbot.dpdns.org/4gtv_api.php?id=283
-
-SBN全球財經台,https://ha.msbot.dpdns.org/4gtv_api.php?id=224
-TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=183#https://ha.msbot.dpdns.org/4gtv_api.php?id=472
-東森購物四台,https://ha.msbot.dpdns.org/4gtv_api.php?id=500
-民視綜藝台,https://ha.msbot.dpdns.org/4gtv_api.php?id=16
 豬哥亮歌廳秀,https://ha.msbot.dpdns.org/4gtv_api.php?id=113
 靖天育樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=83
 KLT-靖天國際台,https://ha.msbot.dpdns.org/4gtv_api.php?id=84
 Nice TV 靖天歡樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=119
 靖天資訊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=88
-
+TVBS歡樂台,https://ha.msbot.dpdns.org/4gtv_api.php?id=184
 韓國娛樂台 KMTV,https://ha.msbot.dpdns.org/4gtv_api.php?id=446
 ROCK Entertainment,https://ha.msbot.dpdns.org/4gtv_api.php?id=275
 Lifetime 娛樂頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=217
@@ -97,7 +104,6 @@ History 歷史頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=214
 LUXE TV Channel,https://ha.msbot.dpdns.org/4gtv_api.php?id=175
 TV5MONDE STYLE HD 生活時尚,https://ha.msbot.dpdns.org/4gtv_api.php?id=178
 ROCK Xstream搖滾極限頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=485
-
 CI 罪案偵查頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=215
 視納華仁紀實頻道,https://ha.msbot.dpdns.org/4gtv_api.php?id=38
 影迷數位紀實台,https://ha.msbot.dpdns.org/4gtv_api.php?id=445
@@ -123,11 +129,6 @@ DW德國之聲,https://ha.msbot.dpdns.org/4gtv_api.php?id=226
 香蕉直擊台,https://ha.msbot.dpdns.org/4gtv_api.php?id=94
 國會頻道1,https://ha.msbot.dpdns.org/4gtv_api.php?id=170
 國會頻道2,https://ha.msbot.dpdns.org/4gtv_api.php?id=171
-TVBS綜藝台,https://ha.msbot.dpdns.org/4gtv_api.php?id=476
-TVBS台劇台,https://ha.msbot.dpdns.org/4gtv_api.php?id=477
-經典電影台,https://ha.msbot.dpdns.org/4gtv_api.php?id=201
-經典卡通台,https://ha.msbot.dpdns.org/4gtv_api.php?id=202
-精選動漫台,https://ha.msbot.dpdns.org/4gtv_api.php?id=204
 市井豪門-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=341
 華視好劇-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=330
 公視好劇-FastTV飛速看,https://ha.msbot.dpdns.org/4gtv_api.php?id=337
