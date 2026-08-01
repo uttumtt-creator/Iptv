@@ -1,5 +1,6 @@
 4GTv新聞,#genre#
-
+TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=183
+TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=472
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=291#https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 鏡電視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=268
 東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=234#https://ha.msbot.dpdns.org/4gtv_api.php?id=292
