@@ -2,7 +2,7 @@
 TVBS,https://ha.msbot.dpdns.org/4gtv_api.php?id=183#https://ha.msbot.dpdns.org/4gtv_api.php?id=472
 TVBS新聞,https://ha.msbot.dpdns.org/4gtv_api.php?id=291#https://ha.msbot.dpdns.org/4gtv_api.php?id=473
 中天新聞台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784706116084
-
+中天新聞台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1784706116084
 
 鏡電視新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=268
 東森新聞台,https://ha.msbot.dpdns.org/4gtv_api.php?id=234#https://ha.msbot.dpdns.org/4gtv_api.php?id=292
@@ -1003,7 +1003,7 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/live/V1p33hqPrUk?si=byEUmKUYKqQEFU0N
 
 中天新聞,https://www.youtube.com/live/vr3XyVCR4T0?si=9quWZdOTvptvP-hO
-三立新聞,https://www.youtube.com/live/QsGswQvRmtU?si=HlopiSlF2bsLzBK2
+三立新聞,https://www.youtube.com/live/yeYC0mbSIOo?si=QCZV_Nkb8r4TnDjV
 
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
