@@ -1,6 +1,8 @@
 
 
 🇹🇼台湾,#genre#
+TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784706116084
+
 TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 
 
