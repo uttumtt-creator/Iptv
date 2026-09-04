@@ -3,7 +3,7 @@
 🇹🇼台湾,#genre#
 TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 
-TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+
 中天新闻,https://my5353.com/ztxw
  
 寰宇新闻,http://nmk.ioapk.com:5050/of-litv-longturn14/index.m3u8
@@ -23,13 +23,10 @@ LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 
-三立新聞,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
-LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
-年代新闻,https://cdn.19891230.eu.org/api/Era-News/index.m3u8
 
-华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
-台视新闻,https://ktpremium.world/live/LT1976F/A9177/515200.ts
-民视新闻,http://211.72.174.95:8117/0.ts$原生解码最佳
+LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+
+
 中视,http://211.72.174.95:8113/0.ts$原生解码最佳
 华视,http://211.72.174.95:8114/0.ts$原生解码最佳
 公视,http://211.72.174.95:8116/0.ts$原生解码最佳
