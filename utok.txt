@@ -161,7 +161,6 @@ BTV体育,http://114.241.105.149:85/tsfile/live/25/1025_1.m3u8?key=txiptv
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 
 YOUTUBE油管新聞|,#genre#
-TVBS,https://www.youtube.com/live/m_dhMSvUCIc?si=w-69Qy-vRXdghnZU
 
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 東森新聞,https://www.youtube.com/live/V1p33hqPrUk?si=byEUmKUYKqQEFU0N
