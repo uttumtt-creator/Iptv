@@ -1,0 +1,32 @@
+{
+  "spider": "https://your-domain.com/py.zip",
+  "sites": [
+    {
+      "key": "yixian",
+      "name": "一线黑料",
+      "type": 3,
+      "api": "csp_1line_black",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "tangtt",
+      "name": "汤头条",
+      "type": 3,
+      "api": "csp_tang_toutiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "papa",
+      "name": "PaPa视频",
+      "type": 3,
+      "api": "csp_papa_video",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
