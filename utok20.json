@@ -1,0 +1,9 @@
+{
+  "key": "py_4gtv2",
+  "name": "4GTV 雙代理直播",
+  "type": 3,
+  "api": "file/1.py", 
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+}
