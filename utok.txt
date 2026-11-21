@@ -44,11 +44,13 @@ TVBS HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=735
 八大第一 GTV First,http://xsmt.ccwu.cc/xsmt/smt.php?id=752
 八大综合 GTV Metro,http://xsmt.ccwu.cc/xsmt/smt.php?id=754
 八大戏剧 GTV Drama,http://xsmt.ccwu.cc/xsmt/smt.php?id=753
+八大娱乐 GTV Entertainment,http://xsmt.ccwu.cc/xsmt/smt.php?id=110
 HBO_HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=898
 HBO_HITS,http://xsmt.ccwu.cc/xsmt/smt.php?id=1207
 HBO Signature Taiwan,http://xsmt.ccwu.cc/xsmt/smt.php?id=2868
 Hollywood Movies,http://xsmt.ccwu.cc/xsmt/smt.php?id=278
 三立台湾 Sanli Taiwan,http://xsmt.ccwu.cc/xsmt/smt.php?id=543
+三立戏剧台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2236
 三立综合 Sanli Metro,http://xsmt.ccwu.cc/xsmt/smt.php?id=756
 三立都会台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2026
 东森综合 ETTV Metro,http://xsmt.ccwu.cc/xsmt/smt.php?id=118
@@ -56,6 +58,7 @@ Hollywood Movies,http://xsmt.ccwu.cc/xsmt/smt.php?id=278
 公视2,http://xsmt.ccwu.cc/xsmt/smt.php?id=2830
 大爱1台,http://xsmt.ccwu.cc/xsmt/smt.php?id=550
 龙华戏剧 Lunghua Drama,http://xsmt.ccwu.cc/xsmt/smt.php?id=811
+龙华经典台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2079
 龙华偶像,http://xsmt.ccwu.cc/xsmt/smt.php?id=812
 AXN Taiwan,http://xsmt.ccwu.cc/xsmt/smt.php?id=906
 靖天国际台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2018
@@ -77,6 +80,7 @@ DW (Deutsch),http://xsmt.ccwu.cc/xsmt/smt.php?id=440
 博斯运动 1,http://xsmt.ccwu.cc/xsmt/smt.php?id=2083
 博斯运动 2,http://xsmt.ccwu.cc/xsmt/smt.php?id=2084
 东森洋片 ETTV Western,http://xsmt.ccwu.cc/xsmt/smt.php?id=763
+龙华洋片 Lunghua Western,http://xsmt.ccwu.cc/xsmt/smt.php?id=810
 博斯无限,http://xsmt.ccwu.cc/xsmt/smt.php?id=2087
 MTV Live,http://xsmt.ccwu.cc/xsmt/smt.php?id=2046
 龙祥时代,http://xsmt.ccwu.cc/xsmt/smt.php?id=2024
@@ -101,6 +105,7 @@ Catchplay电影台,http://xsmt.ccwu.cc/xsmt/smt.php?id=2936
 动物星球,http://xsmt.ccwu.cc/xsmt/smt.php?id=2937
 壹新闻,http://xsmt.ccwu.cc/xsmt/smt.php?id=2944
 TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+中天新闻,https://my5353.com/ztxw
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
 镜新闻,undefined
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
@@ -108,6 +113,11 @@ TVBS新聞,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
+中视,http://211.72.174.95:8113/0.ts$原生解码最佳
+华视,http://211.72.174.95:8114/0.ts$原生解码最佳
+公视,http://211.72.174.95:8116/0.ts$原生解码最佳
+民视,http://211.72.174.95:8115/0.ts$原生解码最佳
+台视,http://211.72.174.95:8112/0.ts$原生解码最佳
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
@@ -127,6 +137,7 @@ Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
 TRACEURBAN,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 Taiwan+,https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
+NTD,https://livedata.cloudokyo.cloud/hls/424e5248-02c2-47f3-9435-28877812d25c/hls_1080p/video.m3u8
 Love Nature 4K,https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
@@ -138,6 +149,7 @@ ABC News,http://xsmt.ccwu.cc/xsmt/smt.php?id=1766
 CBS HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=1768
 CBSN HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=1769
 Fox News,http://xsmt.ccwu.cc/xsmt/smt.php?id=2535
+NHK World,http://xsmt.ccwu.cc/xsmt/smt.php?id=2392
 Al-Jazeera,http://xsmt.ccwu.cc/xsmt/smt.php?id=1089
 Bloomberg News,http://xsmt.ccwu.cc/xsmt/smt.php?id=267
 BBC World News,http://xsmt.ccwu.cc/xsmt/smt.php?id=2717
@@ -149,6 +161,7 @@ Astro PL 1 (Back Up 1),http://xsmt.ccwu.cc/xsmt/smt.php?id=2820
 Astro PL 2,http://xsmt.ccwu.cc/xsmt/smt.php?id=2821
 Supersports 2,http://xsmt.ccwu.cc/xsmt/smt.php?id=1789
 Astro Grandstand,http://xsmt.ccwu.cc/xsmt/smt.php?id=2822
+Astro Grandstand (Back Up 1),http://xsmt.ccwu.cc/xsmt/smt.php?id=1790
 Astro Football,http://xsmt.ccwu.cc/xsmt/smt.php?id=2823
 Astro Football (Back Up 1),http://xsmt.ccwu.cc/xsmt/smt.php?id=1791
 Astro W-Sports,http://xsmt.ccwu.cc/xsmt/smt.php?id=2834
@@ -172,7 +185,9 @@ WWE,http://xsmt.ccwu.cc/xsmt/smt.php?id=1922
 TVRi National,http://xsmt.ccwu.cc/xsmt/smt.php?id=1622
 CCTV-5 體育,http://xsmt.ccwu.cc/xsmt/smt.php?id=1631
 CCTV-5+ 體育,http://xsmt.ccwu.cc/xsmt/smt.php?id=890
+Tnt Sports 1,http://xsmt.ccwu.cc/xsmt/smt.php?id=2764
 TNT Sports 2,http://xsmt.ccwu.cc/xsmt/smt.php?id=2765
+TNT Sports 3,http://xsmt.ccwu.cc/xsmt/smt.php?id=2766
 TNT Sports 4,http://xsmt.ccwu.cc/xsmt/smt.php?id=2767
 DAZN 1,http://xsmt.ccwu.cc/xsmt/smt.php?id=2869
 DAZN 2,http://xsmt.ccwu.cc/xsmt/smt.php?id=2870
@@ -187,10 +202,13 @@ Skysports Racing,http://xsmt.ccwu.cc/xsmt/smt.php?id=2867
 Skysports Football,http://xsmt.ccwu.cc/xsmt/smt.php?id=2931
 Skysports News,http://xsmt.ccwu.cc/xsmt/smt.php?id=2932
 Skysports Arena,http://xsmt.ccwu.cc/xsmt/smt.php?id=2933
+Skysports Action,http://xsmt.ccwu.cc/xsmt/smt.php?id=2934
 兒童頻道,#genre#
+Baby TV Eng,http://xsmt.ccwu.cc/xsmt/smt.php?id=2255
 CBeebies,http://xsmt.ccwu.cc/xsmt/smt.php?id=2282
 Kids TV,http://xsmt.ccwu.cc/xsmt/smt.php?id=2281
 Momo TV,http://xsmt.ccwu.cc/xsmt/smt.php?id=241
+Baby TV,http://xsmt.ccwu.cc/xsmt/smt.php?id=2073
 MiaoMi,http://xsmt.ccwu.cc/xsmt/smt.php?id=2283
 香港,#genre#
 翡翠台,http://xsmt.ccwu.cc/xsmt/smt.php?id=1939
@@ -217,9 +235,11 @@ GmmOne,http://xsmt.ccwu.cc/xsmt/smt.php?id=2241
 Mono,http://xsmt.ccwu.cc/xsmt/smt.php?id=2242
 Thairath,http://xsmt.ccwu.cc/xsmt/smt.php?id=2243
 Workpoint,http://xsmt.ccwu.cc/xsmt/smt.php?id=2245
+Gmm Channel,http://xsmt.ccwu.cc/xsmt/smt.php?id=2246
 Nation,http://xsmt.ccwu.cc/xsmt/smt.php?id=2247
 Tnn24,http://xsmt.ccwu.cc/xsmt/smt.php?id=2248
 Nbt,http://xsmt.ccwu.cc/xsmt/smt.php?id=2249
+New,http://xsmt.ccwu.cc/xsmt/smt.php?id=2250
 TPTV,http://xsmt.ccwu.cc/xsmt/smt.php?id=2251
 T Sports 7,http://xsmt.ccwu.cc/xsmt/smt.php?id=2948
 True 4U,http://xsmt.ccwu.cc/xsmt/smt.php?id=2949
@@ -265,8 +285,10 @@ Prima,http://xsmt.ccwu.cc/xsmt/smt.php?id=1466
 Prima backup,http://xsmt.ccwu.cc/xsmt/smt.php?id=2658
 Prima backup_1,http://xsmt.ccwu.cc/xsmt/smt.php?id=2924
 Ria,http://xsmt.ccwu.cc/xsmt/smt.php?id=2621
+Ria-3,http://xsmt.ccwu.cc/xsmt/smt.php?id=2773
 Ria backup_1,http://xsmt.ccwu.cc/xsmt/smt.php?id=2925
 Awesome TV,http://xsmt.ccwu.cc/xsmt/smt.php?id=2012
+Aura,http://xsmt.ccwu.cc/xsmt/smt.php?id=2744
 Sensasi,http://xsmt.ccwu.cc/xsmt/smt.php?id=2750
 Siar,http://xsmt.ccwu.cc/xsmt/smt.php?id=2786
 Rania,http://xsmt.ccwu.cc/xsmt/smt.php?id=2687
@@ -324,6 +346,7 @@ Eurosport,http://xsmt.ccwu.cc/xsmt/smt.php?id=2890
 Arena,http://xsmt.ccwu.cc/xsmt/smt.php?id=2651
 Arena 2,http://xsmt.ccwu.cc/xsmt/smt.php?id=2710
 Arena Bola 1,http://xsmt.ccwu.cc/xsmt/smt.php?id=2691
+Arena Bola 2,http://xsmt.ccwu.cc/xsmt/smt.php?id=2781
 Astro LOL,http://xsmt.ccwu.cc/xsmt/smt.php?id=2835
 Al_Jazeera,http://xsmt.ccwu.cc/xsmt/smt.php?id=2893
 BBC World News,http://xsmt.ccwu.cc/xsmt/smt.php?id=2113
@@ -374,6 +397,18 @@ Thrill,http://xsmt.ccwu.cc/xsmt/smt.php?id=2297
 Hits Movie,http://xsmt.ccwu.cc/xsmt/smt.php?id=2299
 天映頻道Celestial Movies,http://xsmt.ccwu.cc/xsmt/smt.php?id=2427
 Diar_Indo,http://xsmt.ccwu.cc/xsmt/smt.php?id=2896
+英國,#genre#
+BBC 1,http://xsmt.ccwu.cc/xsmt/smt.php?id=2215
+BBC 2,http://xsmt.ccwu.cc/xsmt/smt.php?id=2216
+CBBC,http://xsmt.ccwu.cc/xsmt/smt.php?id=2217
+More4,http://xsmt.ccwu.cc/xsmt/smt.php?id=2218
+Freesports,http://xsmt.ccwu.cc/xsmt/smt.php?id=2219
+Pick TV,http://xsmt.ccwu.cc/xsmt/smt.php?id=2221
+itv 1,http://xsmt.ccwu.cc/xsmt/smt.php?id=2222
+itv 2,http://xsmt.ccwu.cc/xsmt/smt.php?id=2223
+Euronews,http://xsmt.ccwu.cc/xsmt/smt.php?id=2226
+Channel 4,http://xsmt.ccwu.cc/xsmt/smt.php?id=2227
+BBC World News,http://xsmt.ccwu.cc/xsmt/smt.php?id=2224
 印度,#genre#
 Sun TV HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=127
 Star Vijay,http://xsmt.ccwu.cc/xsmt/smt.php?id=1648
@@ -396,15 +431,19 @@ Picture HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=367
 Zee News,http://xsmt.ccwu.cc/xsmt/smt.php?id=368
 Asianet,http://xsmt.ccwu.cc/xsmt/smt.php?id=1474
 Asianet News,http://xsmt.ccwu.cc/xsmt/smt.php?id=1924
+Discovery World Tamil,http://xsmt.ccwu.cc/xsmt/smt.php?id=1834
 History Tamil,http://xsmt.ccwu.cc/xsmt/smt.php?id=1836
 NatGeo Tamil,http://xsmt.ccwu.cc/xsmt/smt.php?id=1838
 Natgeo Wild Tamil,http://xsmt.ccwu.cc/xsmt/smt.php?id=1839
 Discovery Kids Tamil,http://xsmt.ccwu.cc/xsmt/smt.php?id=1841
 Sony Yay Tamil,http://xsmt.ccwu.cc/xsmt/smt.php?id=1927
+Sun TV India,http://xsmt.ccwu.cc/xsmt/smt.php?id=2279
 Starmaa HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=2463
 Starmaa Movies HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=2464
 Vijay Super,http://xsmt.ccwu.cc/xsmt/smt.php?id=2772
+Sony Pictures HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=2857
 中國,#genre#
+CCTV-1 綜合,http://xsmt.ccwu.cc/xsmt/smt.php?id=710
 CCTV-2 財經,http://xsmt.ccwu.cc/xsmt/smt.php?id=711
 CCTV-3 綜藝,http://xsmt.ccwu.cc/xsmt/smt.php?id=712
 CCTV-4 中文國際,http://xsmt.ccwu.cc/xsmt/smt.php?id=2626
@@ -436,6 +475,7 @@ CGTN,http://xsmt.ccwu.cc/xsmt/smt.php?id=2562
 凤凰卫视,http://xsmt.ccwu.cc/xsmt/smt.php?id=60
 鳳凰資訊,http://xsmt.ccwu.cc/xsmt/smt.php?id=61
 電影頻道,#genre#
+Movies Now HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=2256
 Star Movies HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=2258
 紀錄頻道,#genre#
 CI,http://xsmt.ccwu.cc/xsmt/smt.php?id=1243
@@ -447,10 +487,45 @@ BBC Earth HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=2037
 BBC Earth Lifestyle,http://xsmt.ccwu.cc/xsmt/smt.php?id=2038
 韓國,#genre#
 Arirang HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=2421
+Yonhap News,http://xsmt.ccwu.cc/xsmt/smt.php?id=2416
+CBS,http://xsmt.ccwu.cc/xsmt/smt.php?id=1975
+EBS 1,http://xsmt.ccwu.cc/xsmt/smt.php?id=2419
+EBS2,http://xsmt.ccwu.cc/xsmt/smt.php?id=1976
+EBS Plus2,http://xsmt.ccwu.cc/xsmt/smt.php?id=1977
+SBS Plus,http://xsmt.ccwu.cc/xsmt/smt.php?id=1978
+YTN,http://xsmt.ccwu.cc/xsmt/smt.php?id=2410
+KBS World 24,http://xsmt.ccwu.cc/xsmt/smt.php?id=2411
+YTN Science,http://xsmt.ccwu.cc/xsmt/smt.php?id=2412
+YTN Korean,http://xsmt.ccwu.cc/xsmt/smt.php?id=2413
+YTN DMB,http://xsmt.ccwu.cc/xsmt/smt.php?id=2414
+Apps TV,http://xsmt.ccwu.cc/xsmt/smt.php?id=2415
+All the Kpop,http://xsmt.ccwu.cc/xsmt/smt.php?id=2417
+J the Kpop,http://xsmt.ccwu.cc/xsmt/smt.php?id=2418
+EBS Kids,http://xsmt.ccwu.cc/xsmt/smt.php?id=2420
+CGNTV,http://xsmt.ccwu.cc/xsmt/smt.php?id=2422
+日本,#genre#
+NHK-総合-2,http://xsmt.ccwu.cc/xsmt/smt.php?id=1397
+NHK-E,http://xsmt.ccwu.cc/xsmt/smt.php?id=1398
+テレビ朝日 Asahi TV,http://xsmt.ccwu.cc/xsmt/smt.php?id=1400
+JET 綜合,http://xsmt.ccwu.cc/xsmt/smt.php?id=1394
+テレビ東京 Tokyo TV,http://xsmt.ccwu.cc/xsmt/smt.php?id=1402
+TOKYOMX,http://xsmt.ccwu.cc/xsmt/smt.php?id=1404
+NHKBS1,http://xsmt.ccwu.cc/xsmt/smt.php?id=1412
+NHKBSプレミア Premium,http://xsmt.ccwu.cc/xsmt/smt.php?id=1413
+BSジャパン 181,http://xsmt.ccwu.cc/xsmt/smt.php?id=1417
+BSフジ BS Fuji,http://xsmt.ccwu.cc/xsmt/smt.php?id=1418
+CNA Japan,http://xsmt.ccwu.cc/xsmt/smt.php?id=1439
+BS-TBS,http://xsmt.ccwu.cc/xsmt/smt.php?id=2075
+NHK Oaska,http://xsmt.ccwu.cc/xsmt/smt.php?id=2076
 越南,#genre#
 ANTV,http://xsmt.ccwu.cc/xsmt/smt.php?id=2751
+VTV 1,http://xsmt.ccwu.cc/xsmt/smt.php?id=2752
 VTV 3,http://xsmt.ccwu.cc/xsmt/smt.php?id=2753
+VTV 4,http://xsmt.ccwu.cc/xsmt/smt.php?id=2872
 VTV 6,http://xsmt.ccwu.cc/xsmt/smt.php?id=2873
 HTV 7,http://xsmt.ccwu.cc/xsmt/smt.php?id=2754
+HTV 9,http://xsmt.ccwu.cc/xsmt/smt.php?id=2755
+THVL HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=2874
 TBKTV,http://xsmt.ccwu.cc/xsmt/smt.php?id=2875
+BTV HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=2876
 CTV HD,http://xsmt.ccwu.cc/xsmt/smt.php?id=2877
